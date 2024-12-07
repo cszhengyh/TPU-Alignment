@@ -1,3 +1,5 @@
+https://www.kaggle.com/code/cszyhdg/g1-zheng-code
+
 # TPU-Alignment
 Fully fine-tune large models like Mistral-7B, Llama-2-13B,Phi-2 or Qwen-14B completely for free.
 
